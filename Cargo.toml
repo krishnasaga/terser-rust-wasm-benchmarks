@@ -1,0 +1,7 @@
+[package]
+name = "benchmarks"
+version = "0.1.0"
+authors = ["krishnasagarrayudu <krishnasagar.r@sonata-software.com>"]
+edition = "2018"
+
+[dependencies]
